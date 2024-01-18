@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
 This Game is build using HTML,CSS,JavaScript
